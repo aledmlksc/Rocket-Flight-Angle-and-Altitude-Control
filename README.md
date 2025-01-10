@@ -10,4 +10,4 @@ By default , the desired altitude is 5000m and the desired angle is 0°. you can
 
 <img src="rocket demo (DEBUG) 1_10_2025 11_03_44 AM.png" alt="Example Image" width="900"/>
 
-[Watch](rocket demo (DEBUG) 2025-01-10 11-04-51.mp4)
+
